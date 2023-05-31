@@ -1,0 +1,29 @@
+Bvcits amlapuram 533201   batalapalam..its very long to main road ..2km long to main road...
+
+
+ssc
+diploma
+b.tech
+m.tech
+diploma:
+       ece ...eee....mech...cse.....civil
+       eee
+       cse
+b.tech:
+       ec
+       eee
+       cs
+m.tech:
+
+diploma 10000
+b.tech  20000
+m.tech  30000
+diploma:
+       ece...eee.mech..civil
+       eee
+       cse
+b.tech:
+       ece
+       eee
+       cse
+m.tech:

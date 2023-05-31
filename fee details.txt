@@ -3,9 +3,9 @@ diploma:
        eee
        cse
 b.tech:
-       ece
+       ec
        eee
-       cse
+       cs
 m.tech:
 
 diploma 10000

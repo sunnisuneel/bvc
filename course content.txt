@@ -1,0 +1,9 @@
+diploma:
+       ece
+       eee
+       cse
+b.tech:
+       ece
+       eee
+       cse
+m.tech:

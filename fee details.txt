@@ -1,0 +1,13 @@
+diploma:
+       ece
+       eee
+       cse
+b.tech:
+       ece
+       eee
+       cse
+m.tech:
+
+diploma 10000
+b.tech  20000
+m.tech  30000
